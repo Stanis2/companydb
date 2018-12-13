@@ -11,6 +11,9 @@
     <h2 class="w3-animate-left">Company DB</h2>
 </div>
 
-
+<form action="persons" method="post">
+    <input type="text" name="fullname">
+    <button type="submit">Get Data</button>
+</form>
 </body>
 </html>

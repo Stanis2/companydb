@@ -2,6 +2,8 @@
   <dictionary name="java_tsi08">
     <words>
       <w>companydb</w>
+      <w>deglava</w>
+      <w>fullname</w>
     </words>
   </dictionary>
 </component>
